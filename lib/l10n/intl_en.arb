@@ -1,0 +1,18 @@
+{
+  "something_went_wrong": "Something went wrong. Our experts are already dealing with the problem",
+  "userDoesntExitsPleaseSignUp": "User doesn't exits, please sign up",
+  "welcomeToExampleApplication": "Welcome to example application",
+  "createAccount": "Create account",
+  "logIn": "Log In",
+  "password": "password",
+  "login": "login",
+  "name": "name",
+  "fieldShouldNotBeEmpty": "Field should not be empty",
+  "fieldMustNotContainSpaces": "Field must not contain spaces",
+  "passwordsMustMatch": "Passwords must match",
+  "characters": "characters",
+  "profile": "profile",
+  "location": "Location",
+  "signUpTime": "sign up time",
+  "logOut": "Log out"
+}
